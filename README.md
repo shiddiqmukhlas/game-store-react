@@ -2,6 +2,10 @@
 
 A simple game store landing page built with React, Bootstrap, and Swiper.
 
+## Live Demo
+
+[https://game-store-react-rust.vercel.app/](https://game-store-react-rust.vercel.app/)
+
 ## Tech Stack
 
 - **React** 19
